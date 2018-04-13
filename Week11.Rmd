@@ -3,6 +3,8 @@ title: "week11"
 author: "Vicki Hertzberg"
 date: "4/10/2018"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
